@@ -36,7 +36,7 @@ User Profile
 ![user-profile](https://github.com/MrGenius18/project_management/blob/bd9a92462542a3061d830ae4f467f4a0afc6ec75/pms/media/imges/User%20Profile.png)
 
 Developer Dashboard  
-![developer-dashboard](https://github.com/MrGenius18/project_management/blob/bd9a92462542a3061d830ae4f467f4a0afc6ec75/pms/media/imges/dev.%20dashboard.png)
+![developer-dashboard](https://github.com/MrGenius18/project_management/blob/3fad1687feb32c164021e64377e995db065cbffd/pms/media/imges/dev.%20dashboard.png)
 
 List of Task 
 ![list-of-task](https://github.com/MrGenius18/project_management/blob/bd9a92462542a3061d830ae4f467f4a0afc6ec75/pms/media/imges/task%20list.png)
