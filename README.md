@@ -12,7 +12,7 @@ Steps to do after downloading repo: ->
 ## Overview of my project.
 
 Project Main Page
-![project-main-page](https://drive.google.com/file/d/1gxQyc1EZbpHaZowjEIQkYdmcdTjkjYC4/view?usp=sharing)
+![project-main-page](https://github.com/MrGenius18/project_management/blob/94c0eed321aa7a477062b8187b248bbc7647d40f/pms/media/upload/PicsArt_09-10-07.24.28.jpg)
 
 Register Page
 ![register-page](https://drive.google.com/file/d/1Lb6JjmiwJJeX9PEp8tmi3BGULKf-mPRy/view?usp=sharing)
