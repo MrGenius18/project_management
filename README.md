@@ -12,31 +12,31 @@ Steps to do after downloading repo: ->
 ## Overview of my project.
 
 Project Main Page
-![project-main-page](https://github.com/MrGenius18/project_management/blob/94c0eed321aa7a477062b8187b248bbc7647d40f/pms/media/upload/PicsArt_09-10-07.24.28.jpg)
+![project-main-page](https://github.com/MrGenius18/project_management/blob/bd9a92462542a3061d830ae4f467f4a0afc6ec75/pms/media/imges/main.png)
 
 Register Page
-![register-page](https://drive.google.com/file/d/1Lb6JjmiwJJeX9PEp8tmi3BGULKf-mPRy/view?usp=sharing)
+![register-page](https://github.com/MrGenius18/project_management/blob/bd9a92462542a3061d830ae4f467f4a0afc6ec75/pms/media/imges/Register.png)
 
 Login Page
-![login-page](https://drive.google.com/file/d/1VlxQRwG9AB8p8NfMQzYJzELi2Bs4YJ8h/view?usp=sharing)
+![login-page](https://github.com/MrGenius18/project_management/blob/bd9a92462542a3061d830ae4f467f4a0afc6ec75/pms/media/imges/Login.png)
 
 Manager Dashboard 
-![manager-dashboard](https://drive.google.com/file/d/1-H_Gl6ml6SOL2DluX7GC2hSJvICuHysr/view?usp=sharing)
+![manager-dashboard](https://github.com/MrGenius18/project_management/blob/bd9a92462542a3061d830ae4f467f4a0afc6ec75/pms/media/imges/Manager%20dash.png)
 
 List of Project
-![list-of-project](https://drive.google.com/file/d/1e_dXkOXLsAE28OUjjBDhJOXz2WalN6YL/view?usp=sharing)
+![list-of-project](https://github.com/MrGenius18/project_management/blob/bd9a92462542a3061d830ae4f467f4a0afc6ec75/pms/media/imges/List%20of%20Project.png)
 
 Modules View
-![modules-view](https://drive.google.com/file/d/1ZHJbULIwDKcKhcCz5yIdD73Xyazimy3o/view?usp=sharing)
+![modules-view](https://github.com/MrGenius18/project_management/blob/bd9a92462542a3061d830ae4f467f4a0afc6ec75/pms/media/imges/Modules.png)
 
 Add Projects Form 
-![add-projects-form](https://drive.google.com/file/d/1xEHco6SaBZ1REo2MhXs5HrGy-A8Lrqso/view?usp=sharing)
+![add-projects-form](https://github.com/MrGenius18/project_management/blob/bd9a92462542a3061d830ae4f467f4a0afc6ec75/pms/media/imges/Add%20Projects%20Form.png)
 
 User Profile 
-![user-profile](https://drive.google.com/file/d/1rYRxLrBh4ZYmbDVjTau7nfo6j1IKHYjE/view?usp=sharing)
+![user-profile](https://github.com/MrGenius18/project_management/blob/bd9a92462542a3061d830ae4f467f4a0afc6ec75/pms/media/imges/User%20Profile.png)
 
 Developer Dashboard  
-![developer-dashboard](https://drive.google.com/file/d/1hWtnvuhmGtZwgsS61nhV52j6itJG_QI7/view?usp=sharing)
+![developer-dashboard](https://github.com/MrGenius18/project_management/blob/bd9a92462542a3061d830ae4f467f4a0afc6ec75/pms/media/imges/dev.%20dashboard.png)
 
 List of Task 
-![list-of-task](https://drive.google.com/file/d/1qwHBUth3rzYPq1VtQQQq2NlUBYdVOCXn/view?usp=sharing)
+![list-of-task](https://github.com/MrGenius18/project_management/blob/bd9a92462542a3061d830ae4f467f4a0afc6ec75/pms/media/imges/task%20list.png)
